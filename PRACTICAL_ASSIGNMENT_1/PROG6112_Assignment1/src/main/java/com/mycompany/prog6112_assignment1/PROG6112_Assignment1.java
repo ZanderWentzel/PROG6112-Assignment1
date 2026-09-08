@@ -170,7 +170,7 @@ public class PROG6112_Assignment1
 
         if (p != null)
         {
-            System.out.println("\n--- PATIENT FOUND ---");
+            System.out.println("\nPATIENT FOUND");
             p.displayDetails();
         } else
         {
